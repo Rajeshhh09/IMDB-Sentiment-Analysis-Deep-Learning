@@ -1,0 +1,11 @@
+# Exclude Colab system configurations
+.config/
+sample_data/
+
+# Exclude Python environment / cache
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# Exclude git secret tokens if any exist locally
