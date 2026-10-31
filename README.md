@@ -2,6 +2,7 @@
 
 This project implements and evaluates multiple deep learning architectures for sentiment classification using the **IMDB Movie Reviews Dataset**. It spans from raw text cleaning and custom sequence processing to mathematical parameter verification, recurrent gradient analysis, hidden unit sensitivity studies, and end-to-end model benchmarking.
 
+#Video Link :- https://drive.google.com/file/d/1NcYgS4GYt9FhCP36taaz32H3l0qNG6fY/view?usp=sharing
 ---
 
 ## 📋 Table of Contents
